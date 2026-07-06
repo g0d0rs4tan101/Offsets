@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2026-06-02 09:37:57.296347200 UTC
+// 2026-07-06 06:31:21.814096600 UTC
 
 #pragma once
 
@@ -10,23 +10,23 @@ namespace cs2_dumper {
     namespace offsets {
         // Module: client.dll
         namespace client_dll {
-            constexpr std::ptrdiff_t dwCSGOInput = 0x2355230;
-            constexpr std::ptrdiff_t dwEntityList = 0x24E6590;
-            constexpr std::ptrdiff_t dwGameEntitySystem = 0x24E6590;
+            constexpr std::ptrdiff_t dwCSGOInput = 0x23560C0;
+            constexpr std::ptrdiff_t dwEntityList = 0x24E7680;
+            constexpr std::ptrdiff_t dwGameEntitySystem = 0x24E7680;
             constexpr std::ptrdiff_t dwGameEntitySystem_highestEntityIndex = 0x2090;
-            constexpr std::ptrdiff_t dwGameRules = 0x2340158;
-            constexpr std::ptrdiff_t dwGlobalVars = 0x20606D0;
-            constexpr std::ptrdiff_t dwGlowManager = 0x233CF50;
-            constexpr std::ptrdiff_t dwLocalPlayerController = 0x231F700;
-            constexpr std::ptrdiff_t dwLocalPlayerPawn = 0x2340698;
-            constexpr std::ptrdiff_t dwPlantedC4 = 0x234EF88;
-            constexpr std::ptrdiff_t dwPrediction = 0x23405A0;
-            constexpr std::ptrdiff_t dwSensitivity = 0x233DA68;
+            constexpr std::ptrdiff_t dwGameRules = 0x2340FE8;
+            constexpr std::ptrdiff_t dwGlobalVars = 0x20616D0;
+            constexpr std::ptrdiff_t dwGlowManager = 0x233DDE0;
+            constexpr std::ptrdiff_t dwLocalPlayerController = 0x2320570;
+            constexpr std::ptrdiff_t dwLocalPlayerPawn = 0x2341528;
+            constexpr std::ptrdiff_t dwPlantedC4 = 0x234FE28;
+            constexpr std::ptrdiff_t dwPrediction = 0x2341430;
+            constexpr std::ptrdiff_t dwSensitivity = 0x233E8F8;
             constexpr std::ptrdiff_t dwSensitivity_sensitivity = 0x58;
-            constexpr std::ptrdiff_t dwViewAngles = 0x23558B8;
-            constexpr std::ptrdiff_t dwViewMatrix = 0x2345B30;
-            constexpr std::ptrdiff_t dwViewRender = 0x2345ED8;
-            constexpr std::ptrdiff_t dwWeaponC4 = 0x22BDD00;
+            constexpr std::ptrdiff_t dwViewAngles = 0x2356748;
+            constexpr std::ptrdiff_t dwViewMatrix = 0x23469C0;
+            constexpr std::ptrdiff_t dwViewRender = 0x2346D70;
+            constexpr std::ptrdiff_t dwWeaponC4 = 0x22BED18;
         }
         // Module: engine2.dll
         namespace engine2_dll {
